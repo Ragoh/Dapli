@@ -236,7 +236,29 @@ scratch. This page gets rid of all links and provides the needed markup only.
           <div class="col-lg-6">
             <div class="card">
               <div class="card-body">
-                
+                <table class="table table-bordered">
+                    <tr>
+                      <th>ID</th>
+                      <th>Name</th>
+                      <th>Email</th>
+                    </tr>
+                    <tr>
+                      <td>1</td>
+                      <td>John Doe</td>
+                      <td>johndoe@example.com</td>
+                    </tr>
+                    <tr>
+                      <td>2</td>
+                      <td>Jane Doe</td>
+                      <td>janedoe@example.com</td>
+                    </tr>
+                    <tr>
+                      <td>3</td>
+                      <td>Mike Johnson</td>
+                      <td>mikejohnson@example.com</td>
+                    </tr>
+                </table>
+                </table>
               </div>
             </div>
           </div>
