@@ -239,8 +239,8 @@ scratch. This page gets rid of all links and provides the needed markup only.
                 <table class="table table-bordered">
                     <tr>
                       <th>ID</th>
-                      <th>Name</th>
-                      <th>Email</th>
+                      <th>Username</th>
+                      <th>Role</th>
                     </tr>
                     <tr>
                       <td>1</td>
